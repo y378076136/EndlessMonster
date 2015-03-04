@@ -1,0 +1,11 @@
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\Unity3D\MyUnityProjection\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\Unity3D\MyUnityProjection\obj\Debug\UnityVS.MyUnityProjection.CSharp.Plugins.csprojResolveAssemblyReference.cache
+D:\Unity3D\MyUnityProjection\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Unity3D\MyUnityProjection\obj\Debug\Assembly-CSharp-firstpass.pdb
